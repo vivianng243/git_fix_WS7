@@ -13,3 +13,7 @@ plot(cars)
 Line #1
 
 Line #2 ahahaha
+
+
+
+Line #4 edit in detached HEAD
