@@ -17,3 +17,7 @@ Line #2 ahahaha
 
 
 Line #4 edit in detached HEAD
+
+Forget to add a file when committing
+
+
